@@ -10,9 +10,9 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 I have experience in creating test cases, writing well documented bug report, Documentation. 
 
-I have created Test Cases using TESTRAIL and JIRA for bug reports. Comforatble with any Test Case and bug creating tool.
+Comforatble with any Test Case tool and Bug creating tool.
 
-I have good knowledge in SQL ( certification from University of washington and self learning from data camp and coursera), Basic API testing ( POSTMAN Official Website), Basics in python for automation, EXCEL/Google Spreadsheets.
+I have good knowledge in SQL ( certification from University of washington and self learning from data camp and coursera), Basic API testing ( POSTMAN Official Website), basic Automation in playwright using Typescript from Udemy, EXCEL/Google Spreadsheets.
 
 
 -------------------------------------------------------------------------------------------------------------
@@ -33,11 +33,12 @@ _Manual Testing:_
  1. Manual testing of Websites, WebApps and Apps in Android,iOS.
  2. Gained hands-on experience in esigning and telecom industry.
  3. Capable of using Whittaker’s test tours and creating cheat-lists for testing web applications.
+ 4. Capable of creating Test Cases from User Stories.
 
  _Test documentation:_
 
- 1. Can create test cases and checklists and know how and in which situations to use them effectively
- 2. Able to prepare comprehensive bug reports and provide detailed session reports
+ 1. Can create test cases and checklists and know how and in which situations to use them effectively.
+ 2. Able to prepare comprehensive bug reports and provide detailed session reports.
 
  _SQL databases:_
 
